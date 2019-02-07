@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Planning and Development
 ### 2/2/19 and 2/3/19 (2 hours)
 
-#Reading through challenge requirements
+* Reading through challenge requirements
 * Getting familiar with meetup api docs and api key specifics
 * Initializing new CRA, Github Repo, etc.
 * Considering the pros and cons of using fetch vs axios [I read this](https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5).  
