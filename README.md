@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[Final Demo](https://reactjs-dallas-upcoming.herokuapp.com/)
+
 ## Planning and Development
 ### 2/2/19 and 2/3/19 (2 hours)
 
